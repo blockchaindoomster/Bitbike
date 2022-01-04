@@ -1,0 +1,13 @@
+https://testnets.opensea.io/assets/0xaD27024318Ea94Fc8F52F1b10a803F10044A7b57/14
+
+get-childitem *.png | foreach { rename-item $_ $_.Name.Replace("(", "") }
+
+user: james@hotson.com
+pw: hfy!tft!bcj6mug5WMX
+
+REACT_APP_PINATA_KEY = e746a62d9b6c002e8e79
+REACT_APP_PINATA_SECRET = 15dcec83f9d552da6a7674e8e6d3619ddbac0e6580ff4ea93428256d5054d8cb
+
+9973
+
+https://www.limbik.co/post/bitbike
